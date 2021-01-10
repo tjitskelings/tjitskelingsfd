@@ -1,0 +1,198 @@
+/* CSS Document */
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+}
+
+#menumobiel {
+    list-style-type: none;
+    display: flex;
+}
+
+#menumobiel li + li {
+    width: 4em;
+    padding: 1em;
+}
+
+#menumobiel li:first-of-type {
+    margin-right: auto;
+    width: 20em;
+}
+
+
+#menu {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    transform: translateY(-100%);
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+
+    /*
+    left: 0;
+    right: 0;
+
+    transform: translateY(-100%);
+
+*/
+}
+
+.toonmenu {
+    transform: translateY(100%);
+    background-color: whitesmoke;
+    list-style-type: none;
+    display: block;
+    width: 70%;
+    padding: 2em;
+    transition: 1s transform;
+
+
+}
+
+nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+nav a:hover {
+    color: gray;
+}
+
+/*
+
+nav li {
+    padding: 10px;
+}
+*/
+
+/** MAIN **/
+
+#slideshow {
+    display: flex;
+    width: 100wv;
+    overflow: scroll;
+    padding-bottom: 4em;
+}
+
+#overzicht {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+main section {
+    padding: 50px;
+}
+
+article {
+    padding: 1em;
+}
+
+
+article h2 {
+    text-align: center;
+    text-transform: lowercase;
+}
+
+article p {
+    text-align: center;
+    color: gray;
+    font-size: 12px;
+}
+
+section img {
+    width: 100%;
+}
+
+/** DETAIL **/
+
+.detail {
+    color: gray;
+    font-size: 15px;
+    font-family: serif;
+    text-align: left;
+    line-height: 1.5em;
+}
+
+select {
+    margin: 1em;
+    padding: 1em;
+}
+
+button {
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    padding: 1em;
+    margin: 1em;
+}
+
+#productinfo {
+    background-color: whitesmoke;
+}
+
+.detail {
+    padding: 3em;
+    line-height: 2.5em;
+}
+
+
+
+/** FOOTER **/
+
+#backtotop {
+    display: block;
+    text-decoration: none;
+    color: #2F0700;
+    background-color: white;
+    padding: 2em;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: solid;
+    border-color: lightgray;
+
+}
+
+footer {
+    background-color: #F3F3F3;
+    text-align: center;
+}
+
+footer section {
+    padding-bottom: 3em;
+}
+
+footer a {
+    text-decoration: underline;
+}
+
+footer a,
+p {
+    font-size: 15px;
+}
+
+footer input {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: gray;
+    width: 60vw;
+    height: 3em;
+}
