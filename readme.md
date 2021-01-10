@@ -28,6 +28,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 Het lukte me niet om de hamburgermenu naar beneden te klappen, ondanks het feit dat ik het voorbeeld uit de les had gebruikt. Na 40 minuten met Guus er aan te hebben gezeten, was het wel gelukt. Verder wilde ik de slideshow realiseren met pijltjes aan de zijkant en een timer erop zetten dat de foto's om de zoveel seconden wisselden,  dat hebben we opgelost met de slider.
 
+### Agenda voor meeting
+
+ik was alleen bij het feedback gesprek
+
+### Verslag van meeting
+
+Zie "stand van zaken"
+
 
 ## Voortgang 2 (week 5)
 
@@ -39,27 +47,16 @@ Ik had hier niet genoeg voortgang geboekt om nieuwe feedback te kunnen ontvangen
 
 ### Stand van zaken
 
-Het lukte me niet om de hamburgermenu naar beneden te klappen, ondanks het feit dat ik het voorbeeld uit de les had gebruikt. Na 40 minuten met Guus er aan te hebben gezeten, was het wel gelukt. Verder wilde ik de slideshow realiseren met pijltjes aan de zijkant en een timer erop zetten dat de foto's om de zoveel seconden wisselden,  dat hebben we opgelost met de slider.
-
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent met korte uitleg-
-
-### Agenda voor meeting
-
-ik was
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
+Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij mij voornamelijk om deze basis 'goed te laten keuren' zodat ik niet verder zou bouwen op een slechte opstelling. Dat is gelukt! Ik had een aantal dingen verkeerd gedaan, maar die zijn verbeterd door Danny.
 
 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
-
-
+<img src="images/Huiswerk/breakdownschets/cc-1.jpg>
+<img src="images/Huiswerk/breakdownschets/cc-2.jpg>
+<img src="images/Huiswerk/breakdownschets/cc-3.jpg>
+<img src="images/Huiswerk/breakdownschets/cc-4.jpg>
 
 
 ## Intake (week 1)
