@@ -70,8 +70,9 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.41.18" width="375px" alt="homepagina op mobiel">
+
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.41.39" width="375px" alt="detailpagina product">
