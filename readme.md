@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Tjitske
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -9,6 +9,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 1. https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/ 
 2. https://css-tricks.com/can-get-pretty-far-making-slider-just-html-css/ 
 3. https://developer.mozilla.org/nl/docs/Web/API/Document/getElementById
+4. alle presentaties van Frontend Development
+
 
 
 
@@ -24,13 +26,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
-
+Het lukte me niet om de hamburgermenu naar beneden te klappen, ondanks het feit dat ik het voorbeeld uit de les had gebruikt. Na 40 minuten met Guus er aan te hebben gezeten, was het wel gelukt. Verder wilde ik de slideshow realiseren met pijltjes aan de zijkant en een timer erop zetten dat de foto's om de zoveel seconden wisselden,  dat hebben we opgelost met de slider.
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+Ik had hier niet genoeg voortgang geboekt om nieuwe feedback te kunnen ontvangen.
 
 
 
@@ -38,7 +39,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het lukte me niet om de hamburgermenu naar beneden te klappen, ondanks het feit dat ik het voorbeeld uit de les had gebruikt. Na 40 minuten met Guus er aan te hebben gezeten, was het wel gelukt. Verder wilde ik de slideshow realiseren met pijltjes aan de zijkant en een timer erop zetten dat de foto's om de zoveel seconden wisselden,  dat hebben we opgelost met de slider.
 
 **Screenshot(s):**
 
@@ -46,13 +47,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+ik was
 
 ### Verslag van meeting
 
@@ -70,11 +65,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauwe piste; ik herkans dit vak omdat ik de vorige keren te veel moeite had met coderen, voornamelijk met Javascript. 
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Surface-plane
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** https://coffeecompany.nl 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
