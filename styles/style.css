@@ -143,6 +143,10 @@ button {
     margin: 1em;
 }
 
+button:hover {
+    background-color: gray;
+}
+
 #productinfo {
     background-color: whitesmoke;
 }
