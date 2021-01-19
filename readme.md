@@ -27,6 +27,10 @@ Format: ![homepage](https://tjitskelings.github.io/tjitskelingsfd/)
 
 
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.54" width="375px" alt="homepagina hamburgermenu uitgeklapt">
+
+Inline-style: 
+![alt text](https://tjitskelings.github.io/tjitskelingsfd/images/huiswerk/"Logo Title Text 1")
+
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.57.05" width="375px" alt="detailpagina">
 
 
