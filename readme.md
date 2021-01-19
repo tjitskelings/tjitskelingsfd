@@ -22,8 +22,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.46" width="375px" alt="homepagina">
 
-![homepagina
-(/images/Huiswerk/Screenshot 2021-01-10 at 17.56.46)
+![homepage](/images/Huiswerk/Screenshot 2021-01-10 at 17.56.46)
+Format: ![homepage](https://tjitskelings.github.io/tjitskelingsfd/)
 
 
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.54" width="375px" alt="homepagina hamburgermenu uitgeklapt">
