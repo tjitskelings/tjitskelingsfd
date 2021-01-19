@@ -21,6 +21,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.46" width="375px" alt="homepagina">
+
+![homepagina
+(/images/Huiswerk/Screenshot 2021-01-10 at 17.56.46)
+
+
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.54" width="375px" alt="homepagina hamburgermenu uitgeklapt">
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.57.05" width="375px" alt="detailpagina">
 
