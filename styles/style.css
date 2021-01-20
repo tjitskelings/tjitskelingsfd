@@ -20,9 +20,14 @@ body {
     display: flex;
 }
 
-#menumobiel li + li {
+#menumobiel li {
     width: 4em;
     padding: 1em;
+}
+
+#menumobiel li:hover {
+    width: 5em;
+    background-color: whitesmoke;
 }
 
 #menumobiel li:first-of-type {
@@ -66,10 +71,21 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     list-style-type: none;
+
 }
 
 nav a:hover {
     color: gray;
+    list-style-image: none;
+
+}
+
+nav a:visited {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    list-style-type: none;
+    text-decoration: none;
 }
 
 /*
@@ -171,7 +187,11 @@ button:hover {
     font-weight: bold;
     border: solid;
     border-color: lightgray;
+}
 
+#backtotop:hover {
+    background-color: lightgray;
+    color: white;
 }
 
 footer {
@@ -185,6 +205,11 @@ footer section {
 
 footer a {
     text-decoration: underline;
+}
+
+footer a:hover {
+    color: gray;
+
 }
 
 footer a,
