@@ -56,8 +56,11 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 ## Breakdownschets (week 1)
           
  ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-1.jpg)
+ 
  ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-2.jpg)
+ 
  ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-3.jpg)
+ 
  ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-4.jpg)
 
 
