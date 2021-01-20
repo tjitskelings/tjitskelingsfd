@@ -19,9 +19,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
- ![breakdownschets](/images/Huiswerk/screenshots/screenshot.home.png)
- ![breakdownschets](/images/Huiswerk/screenshots/screenshot.homeuit.png)
- ![breakdownschets](/images/Huiswerk/screenshots/screenshot.detail.png)
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.home.png){width=50%}
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.homeuit.png){width=50%}
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.detail.png){width=50%}
 
 
 ## Voortgang 3 (week 6)
@@ -54,11 +54,11 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 ## Breakdownschets (week 1)
           
  
- ![breakdownschets](/images/Huiswerk/breakdownschets/cc-2.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-2.jpg){width=50%}
  
- ![breakdownschets](/images/Huiswerk/breakdownschets/cc-3.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-3.jpg){width=50%}
  
- ![breakdownschets](/images/Huiswerk/breakdownschets/cc-4.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-4.jpg){width=50%}
 
 
 ## Intake (week 1)
@@ -72,9 +72,9 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
- ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.home.png)
+ ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.home.png){width=50%}
 
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
- ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.detail.png)
+ ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.detail.png){width=50%}
