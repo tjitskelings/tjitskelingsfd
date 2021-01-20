@@ -21,16 +21,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.46" width="375px" alt="homepagina">
-
-![homepage](/images/Huiswerk/Screenshot 2021-01-10 at 17.56.46)
-Format: ![homepage](https://tjitskelings.github.io/tjitskelingsfd/)
-
-
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.54" width="375px" alt="homepagina hamburgermenu uitgeklapt">
-
-Inline-style: 
-![alt text](https://tjitskelings.github.io/tjitskelingsfd/images/huiswerk/"Logo Title Text 1")
-
 <img src="images/Huiswerk/Screenshot 2021-01-10 at 17.57.05" width="375px" alt="detailpagina">
 
 
@@ -63,11 +54,11 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 
 
 ## Breakdownschets (week 1)
-
-<img src="images/Huiswerk/breakdownschets/cc-1.jpg>
-<img src="images/Huiswerk/breakdownschets/cc-2.jpg>
-<img src="images/Huiswerk/breakdownschets/cc-3.jpg>
-<img src="images/Huiswerk/breakdownschets/cc-4.jpg>
+          
+ ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-1.jpg)
+ ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-2.jpg)
+ ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-3.jpg)
+ ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-4.jpg)
 
 
 ## Intake (week 1)
