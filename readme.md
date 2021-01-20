@@ -19,11 +19,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
-
-<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.46" width="375px" alt="homepagina">
-<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.56.54" width="375px" alt="homepagina hamburgermenu uitgeklapt">
-<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.57.05" width="375px" alt="detailpagina">
-
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.home.png)
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.homeuit.png)
+ ![breakdownschets](/images/Huiswerk/screenshots/screenshot.detail.png)
 
 
 ## Voortgang 3 (week 6)
@@ -55,13 +53,12 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 
 ## Breakdownschets (week 1)
           
- ![breakdownschets](/images/Huiswerk/breakdownschets/cc-1.jpg)
  
- ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-2.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-2.jpg)
  
- ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-3.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-3.jpg)
  
- ![breakdownschets](https://tjitskelings.github.io/tjitskelingsfd/images/Huiswerk/breakdownschets/cc-4.jpg)
+ ![breakdownschets](/images/Huiswerk/breakdownschets/cc-4.jpg)
 
 
 ## Intake (week 1)
@@ -75,9 +72,9 @@ Ik had een basis opstelling gemaakt van de website. Dit feedbackgesprek ging bij
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Huiswerk/screenshots/screenshot.home.png" width="375px" alt="homepagina op mobiel">
+ ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.home.png)
 
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Huiswerk/Screenshot 2021-01-10 at 17.41.39" width="375px" alt="detailpagina product">
+ ![breakdownschets](/images/Huiswerk/screenshots/cc.screenshot.detail.png)
